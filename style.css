@@ -46,3 +46,13 @@ a {
     border-radius: 50%;
     border: 1px solid #505050;
 }
+
+.contacts_list {
+    list-style-type: none;
+    padding: 0;
+    padding-left: 15px;
+}
+
+.contacts_list li a {
+    text-decoration: none;
+}
